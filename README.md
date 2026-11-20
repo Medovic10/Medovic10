@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Medovic10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# IA & Data Analytics
 
-<!---
-Medovic10/Medovic10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine Learning · Analyse de données · Business Intelligence · Automatisation
+
+[Découvrir mon portfolio](https://mohamed-lalaoui-rhali.vercel.app/)
+
+## Domaines techniques
+
+| Domaine | Technologies et méthodes |
+| --- | --- |
+| Analyse de données | Python, Pandas, Matplotlib, Seaborn, ACP, ACM |
+| Machine Learning | scikit-learn, classification, régression, Random Forest, SVM, XGBoost |
+| Deep Learning & vision | CNN, prétraitement et classification d'images |
+| Data Engineering & BI | SQL, PostgreSQL, Talend, Power BI, ETL, modélisation en étoile |
+| Automatisation & IA générative | n8n, intégration de modèles texte, image et audio |
+| Développement | Laravel, PHP, MySQL, C#, .NET, API REST, Git |
+
+## Approche de travail
+
+- Préparer et structurer les données avant la modélisation.
+- Comparer les modèles et examiner leurs résultats avec des métriques adaptées.
+- Présenter les analyses avec des visualisations claires et des indicateurs utiles.
+- Automatiser les tâches répétitives et documenter les étapes des projets.
+
+## Explorer mes travaux
+
+Le [portfolio](https://mohamed-lalaoui-rhali.vercel.app/) présente mes projets en IA, analyse de données et développement.
